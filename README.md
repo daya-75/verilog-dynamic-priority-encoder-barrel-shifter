@@ -45,10 +45,6 @@ All testbenches were written to:
 
 ---
 
-Waveform outputs can be generated with `$dumpfile` and `$dumpvars` directives if desired.
-
----
-
 ## 💡 How to Extend
 - Add support for additional barrel shifter modes (e.g., arithmetic shift, rotate)
 - Parameterize input widths (e.g., 16-bit or 32-bit encoders and shifters)
