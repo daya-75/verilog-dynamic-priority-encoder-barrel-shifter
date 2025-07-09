@@ -46,7 +46,7 @@ All testbenches were written to:
 ---
 ## The simulation is done in Xilinx Vivado software
 
-## Simulation screenshot images and schematic diagram files are tagged below:
+## DEMO Simulation screenshot images and schematic diagram files are tagged below:
 
 ### 1] Dynamic Priority Encoder
 
