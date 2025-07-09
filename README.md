@@ -43,4 +43,10 @@ All testbenches were written to:
 - Check edge cases (e.g., no active inputs, maximum shift amounts)
 - Display results via `$monitor`
 
-#The simulation is done in Xilinx Vivado software
+###The simulation is done in Xilinx Vivado software
+
+##Simulation screenshot images and schematic diagram files are tagged below:
+
+###1] Dynamic Priority Encoder
+Simulation: ![Screenshot 2025-07-09 233624](https://github.com/user-attachments/assets/3f8b17b5-bb40-48c8-90e4-757280694da7)
+Schematic: https://drive.google.com/file/d/13DfVXcL32OI55JfCqWvVCI6K4i2wYEJP/view?usp=drive_link
