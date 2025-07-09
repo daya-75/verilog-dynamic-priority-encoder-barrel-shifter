@@ -43,6 +43,8 @@ All testbenches were written to:
 - Check edge cases (e.g., no active inputs, maximum shift amounts)
 - Display results via `$monitor`
 
+---
+
 ###The simulation is done in Xilinx Vivado software
 
 ##Simulation screenshot images and schematic diagram files are tagged below:
