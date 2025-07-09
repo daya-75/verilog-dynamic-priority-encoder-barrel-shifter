@@ -43,4 +43,4 @@ All testbenches were written to:
 - Check edge cases (e.g., no active inputs, maximum shift amounts)
 - Display results via `$monitor`
 
-Example simulation commands with Icarus Verilog:
+#The simulation is done in Xilinx Vivado software
