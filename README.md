@@ -54,9 +54,9 @@ Schematic:![Screenshot 2025-07-09 235323](https://github.com/user-attachments/as
 
 ---
 
-The simulation is done in Xilinx Vivado software
+## The simulation is done in Xilinx Vivado software
 
-Simulation screenshot images and schematic diagram files are tagged below:
+### 📈Simulation screenshot images and schematic diagram files are tagged below:
 
 1] Dynamic Priority Encoder
 
